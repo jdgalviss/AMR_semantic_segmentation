@@ -1,5 +1,5 @@
 # AMR_semantic_segmentation
-Implementation of semantic segmentation for an AMR
+Implementation of semantic segmentation for an AMR extracting scan type data to emulate a laser scan from a driveable area segmented image.
 
 This repository uses the [FCHarDNet](https://github.com/PingoLH/FCHarDNet) implementation from this [repo](https://github.com/omarsayed7/Road-Scene-Segmentation).
 
