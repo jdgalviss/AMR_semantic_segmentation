@@ -18,7 +18,7 @@ This repository uses the [FCHarDNet](https://github.com/PingoLH/FCHarDNet) imple
     ```
 5. Run the docker container. This will enable a terminal inside the container.
     ```bash
-    docker run -p 8888:8888 -it --rm --gpus all seg
+    docker run -p 8888:8888 -it --rm --gpus all segmentation
     ```
 6. Inside container, run jupyter lab
     ```bash
